@@ -13,9 +13,9 @@ então o código irá acionar as condições para sortear os dados. Existem 3 ti
 - Amarelo ('T','P','C','T','P','C')
 - Vermelho ('T','P','T','C','P','T')
 
-a letra "C" representa os cerébros ou os pontos.
-a letra "T" representa os tiros.
-a letra "P" reprenseta os passos, indicando que uma vitima fugiu. 
+ A letra "C" representa os cerébros ou os pontos.
+ A letra "T" representa os tiros.
+ A letra "P" reprenseta os passos, indicando que uma vitima fugiu. 
 
 Em cada turno o jogador "pega" 3 dados com cores aleatórias, e o console irá mostrar quais as faces foram sorteadas. Após jogar os dados e não ter um total de 3 tiros
 o jogador atual pode selecionar se quer jogar novamente ou passar o turno para o outro.
