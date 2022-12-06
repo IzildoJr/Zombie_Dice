@@ -22,4 +22,4 @@ o jogador atual pode selecionar se quer jogar novamente ou passar o turno para o
 
 Foram implementadas as condições de vitória e de derrota, ao final do jogo é exibido no console o vencedor e os perdedores.
 
-Um trabalho desenvolvido pelo estudante Izildo Junior.
+Um trabalho desenvolvido pelo estudante Izildo Junior para a disciplina de Raciocínio computacional com a linguagem Python.
