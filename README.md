@@ -17,8 +17,8 @@ então o código irá acionar as condições para sortear os dados. Existem 3 ti
  A letra "T" representa os tiros.
  A letra "P" reprenseta os passos, indicando que uma vitima fugiu. 
 
-Em cada turno o jogador "pega" 3 dados com cores aleatórias, e o console irá mostrar quais as faces foram sorteadas. Após jogar os dados e não ter um total de 3 tiros
-o jogador atual pode selecionar se quer jogar novamente ou passar o turno para o outro.
+Em cada turno o jogador "pega" 3 dados com cores aleatórias, e o console irá mostrar quais dados e faces foram sorteadas. Após jogar os dados e não ter um total de 3 tiros
+o jogador atual pode jogar novamente os dados ou encerrar o seu turno.
 
 Foram implementadas as condições de vitória e de derrota, ao final do jogo é exibido no console o vencedor e os perdedores.
 
