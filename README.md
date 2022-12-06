@@ -14,8 +14,8 @@ então o código irá acionar as condições para sortear os dados. Existem 3 ti
 - Vermelho ('T','P','T','C','P','T')
 
  A letra "C" representa os cerébros ou os pontos.
- A letra "T" representa os tiros.
- A letra "P" reprenseta os passos, indicando que uma vitima fugiu. 
+ A letra "T" representa os tiros, indicando que o zumbi tomou um tiro.
+ A letra "P" representa os passos, indicando que uma vitima fugiu. 
 
 Em cada turno o jogador "pega" 3 dados com cores aleatórias, e o console irá mostrar quais dados e faces foram sorteadas. Após jogar os dados e não ter um total de 3 tiros
 o jogador atual pode jogar novamente os dados ou encerrar o seu turno.
